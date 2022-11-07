@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: PeteLindsell/gatsby-starter-hello-world
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
